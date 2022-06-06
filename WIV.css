@@ -1,0 +1,10 @@
+@import "reset.css";
+
+* {
+    outline: none;
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
